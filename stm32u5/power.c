@@ -1,4 +1,4 @@
-#include <stmicro/stm32u5/power_priv.h>
+#include <stmicro/stm32u5/power.h>
 
 void llif_set_power_range(uint8_t range)
 {

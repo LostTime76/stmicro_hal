@@ -1,4 +1,4 @@
-#include <stmicro/stm32u5/flash_priv.h>
+#include <stmicro/stm32u5/flash.h>
 
 void llif_set_flash_ws(uint8_t wait_states, bool prefetch)
 {
