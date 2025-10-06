@@ -1,7 +1,7 @@
 #pragma once
 
-#include <uos/hal/m33/nvic.h>
-#include <stm32/u5/stm32u5.h>
+#include <uos/hal/cm33/nvic.h>
+#include <stmicro/stm32u5/stm32u5.h>
 
 /*!
  * @brief Initializes the microcontroller

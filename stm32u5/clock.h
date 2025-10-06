@@ -1,6 +1,6 @@
 #pragma once
 
-#include <stm32/u5/stm32u5.h>
+#include <stmicro/stm32u5/stm32u5.h>
 
 /*!
  * @brief Structure used to configure a pll.

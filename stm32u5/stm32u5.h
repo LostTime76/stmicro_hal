@@ -1,6 +1,6 @@
 #pragma once
 
-#include <uos/hal/m33/m33.h>
+#include <uos/hal/cm33/cm33.h>
 
 constexpr int16_t WWDG_IRQN    = 0;
 constexpr int16_t PVD_PVM      = 1;

@@ -1,4 +1,4 @@
-#include <stm32/u5/_clock.h>
+#include <stmicro/stm32u5/clock_priv.h>
 
 void llif_set_sysclk_source(uint8_t source)
 {

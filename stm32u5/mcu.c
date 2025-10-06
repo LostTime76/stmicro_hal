@@ -1,4 +1,4 @@
-#include <stm32/u5/mcu.h>
+#include <stmicro/stm32u5/mcu_priv.h>
 
 alignas(IVECT_TAB_ALIGN) interrupt_handler ivect_table[IVECT_TAB_ENTS];
 

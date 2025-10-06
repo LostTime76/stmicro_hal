@@ -1,4 +1,4 @@
-#include <stm32/u5/gpio.h>
+#include <stmicro/stm32u5/gpio_priv.h>
 
 static inline void _set_mode(GPIO_REGS* port, uint16_t pin, Gpio_Mode mode);
 static inline void _set_pull(GPIO_REGS* port, uint16_t pin, Gpio_Pull_Resistor resistor);

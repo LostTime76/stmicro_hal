@@ -1,7 +1,7 @@
 #pragma once
 
 #include <uos/base.h>
-#include <stm32/u5/stm32u5.h>
+#include <stmicro/stm32u5/stm32u5.h>
 
 /*!
  * @brief Sets the power range in the vosr register
